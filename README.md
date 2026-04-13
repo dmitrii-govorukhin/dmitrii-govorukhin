@@ -1,6 +1,6 @@
 - 🔭 I’m currently working on Microsoft Azure Solutions
 - 🌱 I’m currently learning PyTorch, PySpark
-- - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/dmitrii-govorukhin/)
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/dmitrii-govorukhin/)
 
 <!--
 **dmitrii-govorukhin/dmitrii-govorukhin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
