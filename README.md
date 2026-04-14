@@ -1,6 +1,7 @@
-- 🔭 I’m currently working on Microsoft Azure Solutions
-- 🌱 I’m currently learning PyTorch, PySpark
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/dmitrii-govorukhin/)
+#### ML Engineer and Applied AI Researcher with experience working on large-scale government and commercial projects (PFR, Sberbank, California Franchise Tax Board, Contra Costa County).
+I specialize in machine learning, data analysis, and automation.
+- **Stack / Key Skills:** Python, SQL, JavaScript, Machine Learning, MS Azure, AWS, BI, RESTful APIs, System Integration
+- 📫 **How to reach me:** [LinkedIn](https://www.linkedin.com/in/dmitrii-govorukhin/)
 
 <!--
 **dmitrii-govorukhin/dmitrii-govorukhin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
